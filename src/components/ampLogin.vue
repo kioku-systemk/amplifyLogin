@@ -31,7 +31,7 @@ import { Auth, Storage } from 'aws-amplify';
 export default {
     name: "ampLogin",
     components: {
-        ...components
+        components
     },
     data () {
         return {
